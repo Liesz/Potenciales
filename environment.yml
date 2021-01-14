@@ -1,0 +1,11 @@
+name: example-environment
+channels:
+  - conda-forge
+
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - scipy
+  - voila
+© 2021 GitHub, Inc.
