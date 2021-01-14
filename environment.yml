@@ -8,4 +8,4 @@ dependencies:
   - ipywidgets
   - scipy
   - voila
-© 2021 GitHub, Inc.
+  - animatplot
